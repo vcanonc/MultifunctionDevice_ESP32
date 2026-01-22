@@ -24,6 +24,10 @@ The device includes the following operating modes:
 
 All modes are accessible through a main menu and can be exited at any time using the control buttons.
 
+## 📄 User Manual
+
+You can find the full user manual here: [Download PDF](docs/user-manual.pdf)
+
 ## 🔧 Hardware Overview
 
 - **Microcontroller:** ESP32  
