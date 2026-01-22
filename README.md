@@ -4,6 +4,8 @@ This project is a multifunction electronic device built around an ESP32 microcon
 
 The device was developed as an experimental and educational project, combining hardware interaction, wireless communication, graphical interfaces, and real-time features on the ESP32 platform.
 
+![Wiring Diagram](docs/image1.jpeg)
+
 ## ✨ Features
 
 The device includes the following operating modes:
