@@ -89,5 +89,5 @@ See the `LICENSE` file for more details.
 ## 👤 Authors
 
 Developed by:
-- [Víctor Camilo Cañón Castellanos]
-- [Santiago Jesus Gomez Gil]
+- [Víctor Camilo Cañón Castellanos](github.com/vcanonc)
+- [Santiago Jesus Gomez Gil](github.com/sjgomezg)
